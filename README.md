@@ -1,3 +1,5 @@
+*This repository is forked from Adobe and includes my contributions to the API documentation. Click **Contributors** above to see all contributors to this repository.*
+
 # Analytics 2.0 APIs
 Documentation for the analytics 2.0 APIs
 
